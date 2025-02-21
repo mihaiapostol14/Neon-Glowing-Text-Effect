@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: rgb(0, 0, 0);
+}
+
+h1{
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 5em;
+    letter-spacing: 10px;
+    text-shadow: 0 0 10px cyan,
+                0 0 20px cyan,
+                0 0 40px cyan,
+                0 0 80px cyan;
+}
